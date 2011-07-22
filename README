@@ -1,0 +1,25 @@
+This https://github.com/semk/cricinfo python library  found in the blog http://foobarnbaz.com/lab/ made me think about creating a similar one in Java. I created a simple library class and its implementation for this purpose. It works based on the http://www.espncricinfo.com/ site's rss feed.
+
+
+
+
+Usage
+---------
+
+Download the two java sources files to a directory, FOLDER
+
+
+now goto terminal type,
+
+
+cd FOLDER
+
+javac *.java
+
+java CricDisplay
+
+note: edit CricDisplay.java file and uncomment the proxy support if needed
+
+
+
+contact: tacticiankerala@gmail.com
